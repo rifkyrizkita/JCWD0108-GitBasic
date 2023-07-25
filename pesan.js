@@ -1,0 +1,1 @@
+console.log('mas jer belum sunat');
